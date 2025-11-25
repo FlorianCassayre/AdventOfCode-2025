@@ -15,7 +15,7 @@ object Definitions:
       case _ => Iterate[N - 1])
 
   type PartNumber = Iterate[2]
-  type DayNumber = Iterate[25]
+  type DayNumber = Iterate[12]
 
   opaque type Input <: String = String
   type Output = Any

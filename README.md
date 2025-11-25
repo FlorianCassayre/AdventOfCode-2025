@@ -29,19 +29,6 @@ _My solutions to the 2025 edition of [Advent of Code](https://adventofcode.com/2
 | **[10](https://adventofcode.com/2025/day/10)** | [](src/main/scala/adventofcode/solutions/Day10.scala) |
 | **[11](https://adventofcode.com/2025/day/11)** | [](src/main/scala/adventofcode/solutions/Day11.scala) |
 | **[12](https://adventofcode.com/2025/day/12)** | [](src/main/scala/adventofcode/solutions/Day12.scala) |
-| **[13](https://adventofcode.com/2025/day/13)** | [](src/main/scala/adventofcode/solutions/Day13.scala) |
-| **[14](https://adventofcode.com/2025/day/14)** | [](src/main/scala/adventofcode/solutions/Day14.scala) |
-| **[15](https://adventofcode.com/2025/day/15)** | [](src/main/scala/adventofcode/solutions/Day15.scala) |
-| **[16](https://adventofcode.com/2025/day/16)** | [](src/main/scala/adventofcode/solutions/Day16.scala) |
-| **[17](https://adventofcode.com/2025/day/17)** | [](src/main/scala/adventofcode/solutions/Day17.scala) |
-| **[18](https://adventofcode.com/2025/day/18)** | [](src/main/scala/adventofcode/solutions/Day18.scala) |
-| **[19](https://adventofcode.com/2025/day/19)** | [](src/main/scala/adventofcode/solutions/Day19.scala) |
-| **[20](https://adventofcode.com/2025/day/20)** | [](src/main/scala/adventofcode/solutions/Day20.scala) |
-| **[21](https://adventofcode.com/2025/day/21)** | [](src/main/scala/adventofcode/solutions/Day21.scala) |
-| **[22](https://adventofcode.com/2025/day/22)** | [](src/main/scala/adventofcode/solutions/Day22.scala) |
-| **[23](https://adventofcode.com/2025/day/23)** | [](src/main/scala/adventofcode/solutions/Day23.scala) |
-| **[24](https://adventofcode.com/2025/day/24)** | [](src/main/scala/adventofcode/solutions/Day24.scala) |
-| **[25](https://adventofcode.com/2025/day/25)** | [](src/main/scala/adventofcode/solutions/Day25.scala) |
 
 </div>
 
@@ -58,7 +45,7 @@ Note that these rules do not necessarily apply while _solving_ a problem, but ra
 
 ## Usage
 
-This project runs on [Scala](https://scala-lang.org) `3.5.2` and sbt `1.10.5`.
+This project runs on [Scala](https://scala-lang.org) `3.7.4` and sbt `1.11.7`.
 
 Use the following template to write a solution for a given day:
 
