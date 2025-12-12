@@ -27,7 +27,7 @@ _My solutions to the 2025 edition of [Advent of Code](https://adventofcode.com/2
 | **[08](https://adventofcode.com/2025/day/8)** | [solution](src/main/scala/adventofcode/solutions/Day08.scala) |
 | **[09](https://adventofcode.com/2025/day/9)** | [solution](src/main/scala/adventofcode/solutions/Day09.scala) |
 | **[10](https://adventofcode.com/2025/day/10)** | [solution](src/main/scala/adventofcode/solutions/Day10.scala) |
-| **[11](https://adventofcode.com/2025/day/11)** | [](src/main/scala/adventofcode/solutions/Day11.scala) |
+| **[11](https://adventofcode.com/2025/day/11)** | [solution](src/main/scala/adventofcode/solutions/Day11.scala) |
 | **[12](https://adventofcode.com/2025/day/12)** | [](src/main/scala/adventofcode/solutions/Day12.scala) |
 
 </div>
